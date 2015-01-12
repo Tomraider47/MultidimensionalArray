@@ -1,0 +1,12 @@
+a{
+	position:relative;
+	display:block;
+	height: 50px;
+	width: 300px;
+	background-color: rgba(24,47,222,0.5);
+	margin:5px 0 5px 0;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	border-radius: 4px;
+}
