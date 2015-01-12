@@ -9,5 +9,5 @@ function links(){
 for (var i = 0; i < array.length; i++ ) {
 	document.write("<a href=" + array[i][1] + ">" + array[i][0] + "<br>")
 };
-
+//test
 }
